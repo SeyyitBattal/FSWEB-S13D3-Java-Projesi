@@ -36,7 +36,6 @@ public class Person {
         this.mail = mail;
         this.point = point;
         this.idNumber = idNumber;
-
     }
 
     public String toString() {
