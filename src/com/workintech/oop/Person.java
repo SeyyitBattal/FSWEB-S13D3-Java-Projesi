@@ -32,6 +32,8 @@ public class Person {
         this.age = age;
     }
 
+
+
     public Person(String mail, int point, int idNumber) {
         this.mail = mail;
         this.point = point;

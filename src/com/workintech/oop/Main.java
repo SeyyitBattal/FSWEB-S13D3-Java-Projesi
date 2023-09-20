@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Firstname: " + person.getFirstName());
         System.out.println("LastName: " + person.getLastName());
         System.out.println("Age: " + person.getAge());
+        System.out.println("Is teen : " + person.isTeen());
         System.out.println("***************************************");
         Wall wall = new Wall(5,4);
         System.out.println("Area = " + wall.getArea());
